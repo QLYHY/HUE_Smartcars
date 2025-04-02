@@ -9,10 +9,10 @@ proofer: false
 slogan: 
 # site social media and other links
 links:
-  email: 1@1.cn
+  email: 
   github: 
-  bilibili: "475402455"
-  wechat: https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg
+  bilibili: 
+  wechat: 
 ## jekyll settings
 
 # front matter defaults
