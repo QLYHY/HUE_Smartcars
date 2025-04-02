@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: QLYHYDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: 河北工程大学智能车实验室
 subtitle: 
 description: 
 header: images/background.jpg
 header-video: images/bgvideo.mp4
 footer: images/background.jpg
 proofer: false
-slogan: 一往无前华科行，气壮山河狼牙名
+slogan: 
 # site social media and other links
 links:
-  email: contact@QLYHYDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  github: QLYHYDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: 1@1.cn
+  github: 
   bilibili: "475402455"
   wechat: https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg
 ## jekyll settings
